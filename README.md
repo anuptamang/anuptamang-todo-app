@@ -17,5 +17,3 @@
 - Delete Todo
 - Drag and Drop Todo to change Kanban status (Todo, In Progress & Done)
 - Dark Mode
-
-### Development Duration: 14Hrs.
